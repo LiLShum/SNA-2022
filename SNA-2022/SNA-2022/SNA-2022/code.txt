@@ -1,0 +1,86 @@
+num func first (str fb)
+{
+var num fx;
+fx = strln (fb); 
+comeback fx;
+}
+
+num func second (num sa,num sb)
+{
+var num res;
+res = sa + sb;
+comeback res;
+}
+
+start
+{
+var num sta;
+var num safa;
+var num onea;
+var num twoa;
+var num oneo;
+var num twoo;
+var num invrt;
+var num resa;
+var num reso;
+var num resn;
+var num resng;
+var str onestr;
+var str twostr;
+var num resln;
+var num resstn;
+var num oneapp;
+var num twoapp;
+var num thapp;
+var num frapp;
+var num sys;
+var num tst;
+var num resf;
+print("Default value");
+print(sta);
+onea = 12;
+prinnt(onea);
+twoa = 8;
+oneo = 15;
+twoo = 8;
+invrt = 15;
+oneapp = 70;
+twoapp = 71;
+safa = 12;
+resng = 0 - 17;
+sys = 0112;
+tst = sys + safa;
+print("negavtive element");
+print(resng);
+print("Result of logic and");
+resa = onea A twoa;
+print(resa);
+print("Result of logic or");
+reso = oneo O twoo;
+print(reso);
+print("Result of logic not");
+resn = ~ invrt;
+print(resn);
+onestr = "Checkstrln";
+print("Result of STRLN(checkstrln)");
+resln = first(onestr);
+print(resln);
+twostr = "5";
+print("Result of STRTONUM");
+resstn = strtonum (twostr);
+print(resstn);
+thapp = resstn + 2;
+print("Result strton plus 2");
+print(thapp);
+print("Result of cycle");
+repeat(10)
+{
+frapp = frapp + 6;
+};
+print(frapp);
+print("RESULT FUNC SECOND");
+resf = second(oneapp , twoapp);
+print(resf);
+print("Octal number");
+print(sys);
+}

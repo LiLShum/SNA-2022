@@ -1,0 +1,4 @@
+D:\coursach\SVA-2020\Debug\Lib.pdb
+D:\coursach\SVA-2020\Lib\Debug\Lib.pdb
+D:\SVA-2020\Debug\Lib.pdb
+D:\SVA-2020\Lib\Debug\Lib.pdb

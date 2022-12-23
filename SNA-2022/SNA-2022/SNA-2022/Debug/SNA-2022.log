@@ -1,0 +1,44 @@
+﻿  Error.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  FST.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+F:\КП\SNA-2022\SNA-2022\SNA-2022\FST.cpp(30,33): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  GRB.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  Generation.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  IT.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  In.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  LT.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  LexicalAnalysis.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+F:\КП\SNA-2022\SNA-2022\SNA-2022\LexicalAnalysis.cpp(369,50): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Log.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  MFST.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+F:\КП\SNA-2022\SNA-2022\SNA-2022\MFST.cpp(249,66): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Parm.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  PolishNotation.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  SNA-2022.cpp
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): warning C4005: _UNICODE: изменение макроопределения
+F:\КП\SNA-2022\SNA-2022\SNA-2022\Libraries.h(6,1): message : "_UNICODE" ранее объявлен в командной строке
+  Создание кода...
+  SNA-2022.vcxproj -> F:\КП\SNA-2022\SNA-2022\Debug\SNA-2022.exe
